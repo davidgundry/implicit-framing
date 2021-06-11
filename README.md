@@ -2,6 +2,10 @@
 
 This is a repository of materials and data for the implicit framing experiment in the Effect of Experiment Framing on Game Data study. 
 
+//TODO: Do I have 8 minutes of pre-defined moves? No. Make more.
+
+//TODO: don't call it implicit framing
+
 ## Directory Structure
 
 * `data/` - processed/anonymised data
